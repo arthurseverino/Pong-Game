@@ -9,7 +9,6 @@ This is an implementation of the classic Pong game using C++ and OpenGL.
 - Press `Space` to start the game.
 - The first player to score 3 points wins.
 
-
 ## Demo
 
 ![final](demos/final-demo.gif)
